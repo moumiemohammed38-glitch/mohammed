@@ -20,7 +20,7 @@ unorder list
 >> MONEY IS GOOD    
 The traditional *'hello world'* code
 To run my project following steps  
-''' cmd  
+'''cmd  
    git init --In the folder to chose to work on  
    git clone <url> --To clone my repo  
 '''  
@@ -28,4 +28,4 @@ They will run the code below
 '''javascript  
      console.log (''Hello word'')
 '''
-The AI module was provided by https://github.com/moumiemohammed38-glitch/mohammed
+The AI module was provided by (https://github.com/moumiemohammed38-glitch/mohammed)
