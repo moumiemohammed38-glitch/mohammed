@@ -12,7 +12,7 @@ I am an anspiring software engineering student of YIBS
 unorder list  
 - item 1  
 - item 2  
-  - item 2.1  
-order list
+  - item 2.1
+   order list 
 1. item 1
 2. item 2
