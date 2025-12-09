@@ -23,7 +23,7 @@ The traditional'hello world' code
 '''cmd  
    git init --In the folder to chose to work on  
    git clone <url> --To clone my repo  
-'''
+'''  
 They will run the code below
 '''javascript
      console.log (''Hello word'')
