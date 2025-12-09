@@ -16,3 +16,6 @@ unorder list
    order list 
 1. item 1
 2. item 2
+> I LOVE MONEY
+>> MONEY IS GOOD
+The traditional'hello world' code To run my project following steps  
