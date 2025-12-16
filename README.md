@@ -28,4 +28,4 @@ this will run the code below
 ```javascript
 console.log("Hello World")
 ```  
-The AI model was provided by [mohammed] 293f50279b3033b9f7f6beb220db0d1976d98b0e
+The AI model was provided by [mohammed]https://github.com/moumiemohammed38-glitch/mohammed/compare/moumiemohammed38-glitch-patch-1...branch
