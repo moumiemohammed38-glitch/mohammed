@@ -1,0 +1,101 @@
+:root {
+    text-decoration-color: darkgrey;
+    link-color: blue;
+    background-color: rgb(155, 163, 165);
+}
+
+  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'popping', sans-serif;
+    background-color:blueviolet;
+}
+
+  {
+    color: var(link-color);
+    text-decoration: none;
+  }
+/* Navigation bar styling */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background: #793333;
+}
+
+/* Logo text */
+nav .logo {
+    color: rgb(29, 146, 92);
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* GitHub link container */
+.github-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+/* GitHub icon size */
+.github-link i {
+    font-size: 24px;
+}
+
+/* Hover animation */
+.github-link:hover {
+    color: #615ace;
+    transform: scale(1.05);
+}
+image: left;
+form{
+  border:selection;
+}
+ html{
+  font-size: 62.5;
+  overflow-x: hidden;
+ }
+  body{
+    background: #615ace;
+    color: var(--text-color);
+  }
+   .header{
+    position:fixed;
+    top:0 ;
+    left: 0;
+   }
+ .about{
+   display: flex;
+   justify-content: center;
+   align-items: normal ;
+   gap: 2rem;
+   background: var(--second-bg-color);
+ }:
+ .about-img {
+    width: 35vw;
+ }
+ .heading{
+  text-align: center;
+  font-size: 4.5rem;
+ }
+ .about-content h2{
+  text-align: left;
+  line-height: 1.2;
+ }
+ .testimony{
+  img:headshoot;
+ }
